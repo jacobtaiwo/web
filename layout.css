@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#header{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#nav{
+
+  line-height: 30px;
+  background-color: #eee;
+  height: 500px;
+  width: 100px;
+  padding: 10px;
+  float: left;
+
+} 
+#section{
+width: 700px;
+padding:10px;
+float: left;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    clear:both
+
+}
+
+
